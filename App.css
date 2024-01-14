@@ -1,0 +1,143 @@
+.App {
+	text-align: center;
+}
+
+.App-header {
+	background-color: #282c34;
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	font-size: calc(10px + 2vmin);
+	color: white;
+}
+
+.App-link {
+	color: #61dafb;
+}
+
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+.App {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	width: 100%;
+	background-color: #4f5666;
+	color: white;
+}
+
+.header {
+	background-color: #dc8539;
+	color: white;
+	width: 100%;
+	text-align: center;
+	padding: 20px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.content {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	width: 100%;
+	padding: 20px;
+}
+
+.TableComponent {
+	background-color: white;
+	border-radius: 5px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+	max-width: 1000px;
+	width: 100%;
+}
+.Tables {
+	background-color: white;
+	border-radius: 5px;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+	max-width: 800px;
+	width: 100%;
+}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+th,
+td {
+	padding: 10px;
+	text-align: left;
+	border-bottom: 1px solid #ddd;
+}
+
+.pagination {
+	display: flex;
+	justify-content: center;
+	margin: 20px;
+}
+
+button {
+	margin: 0 5px;
+	padding: 10px 20px;
+	background-color: #dc8539;
+	color: white;
+	border: none;
+	cursor: pointer;
+	border-radius: 5px;
+}
+
+button:disabled {
+	background-color: #ccc;
+	cursor: not-allowed;
+}
+/* Map size */
+.map-container {
+	width: 33.33%;
+	height: 100vh;
+}
+
+.header-banner {
+	position: fixed;
+	top: 0.5em;
+	display: block;
+	height: 5em;
+	width: 110%;
+	padding-bottom: 1em;
+	color: #dc8834;
+	z-index: 1;
+	line-height: 20px;
+}
+
+.header-banner h1 {
+	font-size: 24px;
+}
+
+/* Adjust to fit proportions nicely */
+.TableContainer {
+	width: 85%;
+}
+
+/* Adjust to fit */
+.MapContainer {
+	width: 30%;
+	height: 50vh;
+}
+
+.flexbox-container {
+	display: flex;
+	flex-direction: row;
+}
+
+.login-wrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}

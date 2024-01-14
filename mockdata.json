@@ -1,0 +1,198 @@
+[
+  {
+    "bookingId": "booking001",
+    "size": "Small",
+    "weight": 2.1,
+    "senderAddress": "123 Elm Road, Apt 5D, Chicago, 60601, USA",
+    "receiverAddress": {
+      "streetName": "456 Pine Street",
+      "streetNumber": "Unit 3C",
+      "city": "San Francisco",
+      "zipCode": "94101",
+      "country": "USA"
+    },
+    "customerName": "Alice Johnson",
+    "customerId": "Cust001"
+  },
+  {
+    "bookingId": "booking002",
+    "size": "Medium",
+    "weight": 4.2,
+    "senderAddress": "789 Oak Lane, Apt 2B, Los Angeles, 90001, USA",
+    "receiverAddress": {
+      "streetName": "567 Birch Street",
+      "streetNumber": "Unit 1C",
+      "city": "Miami",
+      "zipCode": "33101",
+      "country": "USA"
+    },
+    "customerName": "John Doe",
+    "customerId": "Cust002"
+  },
+  {
+    "bookingId": "booking003",
+    "size": "Large",
+    "weight": 6.3,
+    "senderAddress": "234 Walnut Lane, Apt 3A, Seattle, 98101, USA",
+    "receiverAddress": {
+      "streetName": "321 Cedar Avenue",
+      "streetNumber": "Unit 4B",
+      "city": "Houston",
+      "zipCode": "77001",
+      "country": "USA"
+    },
+    "customerName": "Michael Brown",
+    "customerId": "Cust003"
+  },
+  {
+    "bookingId": "booking004",
+    "size": "Extra Large",
+    "weight": 9.4,
+    "senderAddress": "345 Cedar Road, Apt 4E, Boston, 02201, USA",
+    "receiverAddress": {
+      "streetName": "678 Pine Lane",
+      "streetNumber": "Unit 5F",
+      "city": "Las Vegas",
+      "zipCode": "89101",
+      "country": "USA"
+    },
+    "customerName": "David Wilson",
+    "customerId": "Cust004"
+  },
+  {
+    "bookingId": "booking005",
+    "size": "Small",
+    "weight": 2.5,
+    "senderAddress": "567 Birch Street, Apt 1C, Miami, 33101, USA",
+    "receiverAddress": {
+      "streetName": "123 Elm Road",
+      "streetNumber": "Unit 5D",
+      "city": "Chicago",
+      "zipCode": "60601",
+      "country": "USA"
+    },
+    "customerName": "Jane Smith",
+    "customerId": "Cust005"
+  },
+  {
+    "bookingId": "booking006",
+    "size": "Medium",
+    "weight": 4.6,
+    "senderAddress": "789 Oak Lane, Apt 2B, Los Angeles, 90001, USA",
+    "receiverAddress": {
+      "streetName": "456 Pine Street",
+      "streetNumber": "Unit 3C",
+      "city": "San Francisco",
+      "zipCode": "94101",
+      "country": "USA"
+    },
+    "customerName": "John Doe",
+    "customerId": "Cust006"
+  },
+  {
+    "bookingId": "booking007",
+    "size": "Large",
+    "weight": 6.7,
+    "senderAddress": "234 Walnut Lane, Apt 3A, Seattle, 98101, USA",
+    "receiverAddress": {
+      "streetName": "567 Birch Street",
+      "streetNumber": "Unit 1C",
+      "city": "Miami",
+      "zipCode": "33101",
+      "country": "USA"
+    },
+    "customerName": "Michael Brown",
+    "customerId": "Cust007"
+  },
+  {
+    "bookingId": "booking008",
+    "size": "Extra Large",
+    "weight": 9.8,
+    "senderAddress": "345 Cedar Road, Apt 4E, Boston, 02201, USA",
+    "receiverAddress": {
+      "streetName": "678 Pine Lane",
+      "streetNumber": "Unit 5F",
+      "city": "Las Vegas",
+      "zipCode": "89101",
+      "country": "USA"
+    },
+    "customerName": "David Wilson",
+    "customerId": "Cust008"
+  },
+  {
+    "bookingId": "booking009",
+    "size": "Small",
+    "weight": 2.9,
+    "senderAddress": "123 Elm Road, Apt 5D, Chicago, 60601, USA",
+    "receiverAddress": {
+      "streetName": "789 Oak Lane",
+      "streetNumber": "Unit 2B",
+      "city": "Los Angeles",
+      "zipCode": "90001",
+      "country": "USA"
+    },
+    "customerName": "Alice Johnson",
+    "customerId": "Cust009"
+  },
+  {
+    "bookingId": "booking010",
+    "size": "Medium",
+    "weight": 4.0,
+    "senderAddress": "456 Pine Street, Apt 3C, San Francisco, 94101, USA",
+    "receiverAddress": {
+      "streetName": "567 Birch Street",
+      "streetNumber": "Unit 1C",
+      "city": "Miami",
+      "zipCode": "33101",
+      "country": "USA"
+    },
+    "customerName": "John Doe",
+    "customerId": "Cust010"
+  },
+  {
+      "bookingId": "booking011",
+      "size": "Small",
+      "weight": 2.1,
+      "senderAddress": "123 Elm Road, Apt 5D, Chicago, 60601, USA",
+      "receiverAddress": {
+        "streetName": "456 Pine Street",
+        "streetNumber": "Unit 3C",
+        "city": "San Francisco",
+        "zipCode": "94101",
+        "country": "USA"
+      },
+      "customerName": "Alice Johnson",
+      "customerId": "Cust001"
+    },
+    {
+      "bookingId": "booking012",
+      "size": "Medium",
+      "weight": 4.2,
+      "senderAddress": "789 Oak Lane, Apt 2B, Los Angeles, 90001, USA",
+      "receiverAddress": {
+        "streetName": "567 Birch Street",
+        "streetNumber": "Unit 1C",
+        "city": "Miami",
+        "zipCode": "33101",
+        "country": "USA"
+      },
+      "customerName": "John Doe",
+      "customerId": "Cust002"
+    },
+    {
+      "bookingId": "booking013",
+      "size": "Large",
+      "weight": 6.3,
+      "senderAddress": "234 Walnut Lane, Apt 3A, Seattle, 98101, USA",
+      "receiverAddress": {
+        "streetName": "321 Cedar Avenue",
+        "streetNumber": "Unit 4B",
+        "city": "Houston",
+        "zipCode": "77001",
+        "country": "USA"
+      },
+      "customerName": "Michael Brown",
+      "customerId": "Cust003"
+    }
+]
+  
